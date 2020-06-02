@@ -1,0 +1,13 @@
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex12NumerosOrdem\obj\Debug\netcoreapp3.1\Ex12NumerosOrdem.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex12NumerosOrdem\obj\Debug\netcoreapp3.1\Ex12NumerosOrdem.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex12NumerosOrdem\obj\Debug\netcoreapp3.1\Ex12NumerosOrdem.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex12NumerosOrdem\obj\Debug\netcoreapp3.1\Ex12NumerosOrdem.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex12NumerosOrdem\bin\Debug\netcoreapp3.1\Ex12NumerosOrdem.exe
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex12NumerosOrdem\bin\Debug\netcoreapp3.1\Ex12NumerosOrdem.deps.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex12NumerosOrdem\bin\Debug\netcoreapp3.1\Ex12NumerosOrdem.runtimeconfig.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex12NumerosOrdem\bin\Debug\netcoreapp3.1\Ex12NumerosOrdem.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex12NumerosOrdem\bin\Debug\netcoreapp3.1\Ex12NumerosOrdem.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex12NumerosOrdem\bin\Debug\netcoreapp3.1\Ex12NumerosOrdem.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex12NumerosOrdem\obj\Debug\netcoreapp3.1\Ex12NumerosOrdem.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex12NumerosOrdem\obj\Debug\netcoreapp3.1\Ex12NumerosOrdem.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex12NumerosOrdem\obj\Debug\netcoreapp3.1\Ex12NumerosOrdem.genruntimeconfig.cache

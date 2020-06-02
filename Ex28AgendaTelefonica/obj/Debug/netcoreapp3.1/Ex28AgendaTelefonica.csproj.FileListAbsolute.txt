@@ -1,0 +1,13 @@
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex28AgendaTelefonica\bin\Debug\netcoreapp3.1\Ex28AgendaTelefonica.exe
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex28AgendaTelefonica\bin\Debug\netcoreapp3.1\Ex28AgendaTelefonica.deps.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex28AgendaTelefonica\bin\Debug\netcoreapp3.1\Ex28AgendaTelefonica.runtimeconfig.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex28AgendaTelefonica\bin\Debug\netcoreapp3.1\Ex28AgendaTelefonica.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex28AgendaTelefonica\bin\Debug\netcoreapp3.1\Ex28AgendaTelefonica.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex28AgendaTelefonica\bin\Debug\netcoreapp3.1\Ex28AgendaTelefonica.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex28AgendaTelefonica\obj\Debug\netcoreapp3.1\Ex28AgendaTelefonica.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex28AgendaTelefonica\obj\Debug\netcoreapp3.1\Ex28AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex28AgendaTelefonica\obj\Debug\netcoreapp3.1\Ex28AgendaTelefonica.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex28AgendaTelefonica\obj\Debug\netcoreapp3.1\Ex28AgendaTelefonica.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex28AgendaTelefonica\obj\Debug\netcoreapp3.1\Ex28AgendaTelefonica.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex28AgendaTelefonica\obj\Debug\netcoreapp3.1\Ex28AgendaTelefonica.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex28AgendaTelefonica\obj\Debug\netcoreapp3.1\Ex28AgendaTelefonica.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex15Meses\obj\Debug\netcoreapp3.1\Ex15Meses.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex15Meses\obj\Debug\netcoreapp3.1\Ex15Meses.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex15Meses\obj\Debug\netcoreapp3.1\Ex15Meses.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex15Meses\obj\Debug\netcoreapp3.1\Ex15Meses.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex15Meses\bin\Debug\netcoreapp3.1\Ex15Meses.exe
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex15Meses\bin\Debug\netcoreapp3.1\Ex15Meses.deps.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex15Meses\bin\Debug\netcoreapp3.1\Ex15Meses.runtimeconfig.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex15Meses\bin\Debug\netcoreapp3.1\Ex15Meses.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex15Meses\bin\Debug\netcoreapp3.1\Ex15Meses.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex15Meses\bin\Debug\netcoreapp3.1\Ex15Meses.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex15Meses\obj\Debug\netcoreapp3.1\Ex15Meses.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex15Meses\obj\Debug\netcoreapp3.1\Ex15Meses.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex15Meses\obj\Debug\netcoreapp3.1\Ex15Meses.genruntimeconfig.cache

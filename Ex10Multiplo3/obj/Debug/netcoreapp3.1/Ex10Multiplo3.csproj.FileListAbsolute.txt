@@ -1,0 +1,13 @@
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex10Multiplo3\bin\Debug\netcoreapp3.1\Ex10Multiplo3.exe
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex10Multiplo3\bin\Debug\netcoreapp3.1\Ex10Multiplo3.deps.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex10Multiplo3\bin\Debug\netcoreapp3.1\Ex10Multiplo3.runtimeconfig.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex10Multiplo3\bin\Debug\netcoreapp3.1\Ex10Multiplo3.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex10Multiplo3\bin\Debug\netcoreapp3.1\Ex10Multiplo3.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex10Multiplo3\bin\Debug\netcoreapp3.1\Ex10Multiplo3.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex10Multiplo3\obj\Debug\netcoreapp3.1\Ex10Multiplo3.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex10Multiplo3\obj\Debug\netcoreapp3.1\Ex10Multiplo3.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex10Multiplo3\obj\Debug\netcoreapp3.1\Ex10Multiplo3.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex10Multiplo3\obj\Debug\netcoreapp3.1\Ex10Multiplo3.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex10Multiplo3\obj\Debug\netcoreapp3.1\Ex10Multiplo3.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex10Multiplo3\obj\Debug\netcoreapp3.1\Ex10Multiplo3.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex10Multiplo3\obj\Debug\netcoreapp3.1\Ex10Multiplo3.genruntimeconfig.cache

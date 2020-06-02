@@ -1,0 +1,23 @@
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ConvertCelsius\ConvertCelsius\bin\Debug\netcoreapp3.0\ConvertCelsius.exe
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ConvertCelsius\ConvertCelsius\bin\Debug\netcoreapp3.0\ConvertCelsius.deps.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ConvertCelsius\ConvertCelsius\bin\Debug\netcoreapp3.0\ConvertCelsius.runtimeconfig.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ConvertCelsius\ConvertCelsius\bin\Debug\netcoreapp3.0\ConvertCelsius.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ConvertCelsius\ConvertCelsius\bin\Debug\netcoreapp3.0\ConvertCelsius.dll
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ConvertCelsius\ConvertCelsius\bin\Debug\netcoreapp3.0\ConvertCelsius.pdb
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ConvertCelsius\ConvertCelsius\obj\Debug\netcoreapp3.0\ConvertCelsius.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ConvertCelsius\ConvertCelsius\obj\Debug\netcoreapp3.0\ConvertCelsius.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ConvertCelsius\ConvertCelsius\obj\Debug\netcoreapp3.0\ConvertCelsius.dll
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ConvertCelsius\ConvertCelsius\obj\Debug\netcoreapp3.0\ConvertCelsius.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex2ConvertCelsius\ConvertCelsius\bin\Debug\netcoreapp3.0\ConvertCelsius.exe
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex2ConvertCelsius\ConvertCelsius\bin\Debug\netcoreapp3.0\ConvertCelsius.deps.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex2ConvertCelsius\ConvertCelsius\bin\Debug\netcoreapp3.0\ConvertCelsius.runtimeconfig.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex2ConvertCelsius\ConvertCelsius\bin\Debug\netcoreapp3.0\ConvertCelsius.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex2ConvertCelsius\ConvertCelsius\bin\Debug\netcoreapp3.0\ConvertCelsius.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex2ConvertCelsius\ConvertCelsius\bin\Debug\netcoreapp3.0\ConvertCelsius.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex2ConvertCelsius\ConvertCelsius\obj\Debug\netcoreapp3.0\ConvertCelsius.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex2ConvertCelsius\ConvertCelsius\obj\Debug\netcoreapp3.0\ConvertCelsius.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex2ConvertCelsius\ConvertCelsius\obj\Debug\netcoreapp3.0\ConvertCelsius.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex2ConvertCelsius\ConvertCelsius\obj\Debug\netcoreapp3.0\ConvertCelsius.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex2ConvertCelsius\ConvertCelsius\obj\Debug\netcoreapp3.0\ConvertCelsius.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex2ConvertCelsius\ConvertCelsius\obj\Debug\netcoreapp3.0\ConvertCelsius.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex2ConvertCelsius\ConvertCelsius\obj\Debug\netcoreapp3.0\ConvertCelsius.genruntimeconfig.cache

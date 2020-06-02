@@ -1,0 +1,24 @@
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.exe
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.deps.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.runtimeconfig.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.dll
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.pdb
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ParImpar\ParImpar\obj\Debug\netcoreapp3.0\ParImpar.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ParImpar\ParImpar\obj\Debug\netcoreapp3.0\ParImpar.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ParImpar\ParImpar\obj\Debug\netcoreapp3.0\ParImpar.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ParImpar\ParImpar\obj\Debug\netcoreapp3.0\ParImpar.dll
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\ParImpar\ParImpar\obj\Debug\netcoreapp3.0\ParImpar.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex4ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.exe
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex4ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.deps.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex4ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.runtimeconfig.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex4ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex4ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex4ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex4ParImpar\ParImpar\obj\Debug\netcoreapp3.0\ParImpar.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex4ParImpar\ParImpar\obj\Debug\netcoreapp3.0\ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex4ParImpar\ParImpar\obj\Debug\netcoreapp3.0\ParImpar.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex4ParImpar\ParImpar\obj\Debug\netcoreapp3.0\ParImpar.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex4ParImpar\ParImpar\obj\Debug\netcoreapp3.0\ParImpar.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex4ParImpar\ParImpar\obj\Debug\netcoreapp3.0\ParImpar.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex4ParImpar\ParImpar\obj\Debug\netcoreapp3.0\ParImpar.genruntimeconfig.cache

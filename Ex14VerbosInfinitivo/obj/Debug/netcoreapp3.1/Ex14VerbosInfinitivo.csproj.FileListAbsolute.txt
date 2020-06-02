@@ -1,0 +1,13 @@
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex14VerbosInfinitivo\bin\Debug\netcoreapp3.1\Ex14VerbosInfinitivo.exe
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex14VerbosInfinitivo\bin\Debug\netcoreapp3.1\Ex14VerbosInfinitivo.deps.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex14VerbosInfinitivo\bin\Debug\netcoreapp3.1\Ex14VerbosInfinitivo.runtimeconfig.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex14VerbosInfinitivo\bin\Debug\netcoreapp3.1\Ex14VerbosInfinitivo.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex14VerbosInfinitivo\bin\Debug\netcoreapp3.1\Ex14VerbosInfinitivo.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex14VerbosInfinitivo\bin\Debug\netcoreapp3.1\Ex14VerbosInfinitivo.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex14VerbosInfinitivo\obj\Debug\netcoreapp3.1\Ex14VerbosInfinitivo.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex14VerbosInfinitivo\obj\Debug\netcoreapp3.1\Ex14VerbosInfinitivo.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex14VerbosInfinitivo\obj\Debug\netcoreapp3.1\Ex14VerbosInfinitivo.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex14VerbosInfinitivo\obj\Debug\netcoreapp3.1\Ex14VerbosInfinitivo.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex14VerbosInfinitivo\obj\Debug\netcoreapp3.1\Ex14VerbosInfinitivo.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex14VerbosInfinitivo\obj\Debug\netcoreapp3.1\Ex14VerbosInfinitivo.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex14VerbosInfinitivo\obj\Debug\netcoreapp3.1\Ex14VerbosInfinitivo.genruntimeconfig.cache

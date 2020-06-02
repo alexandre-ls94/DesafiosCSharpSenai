@@ -1,0 +1,24 @@
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Autonomia\Autonomia\bin\Debug\netcoreapp3.0\Autonomia.exe
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Autonomia\Autonomia\bin\Debug\netcoreapp3.0\Autonomia.deps.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Autonomia\Autonomia\bin\Debug\netcoreapp3.0\Autonomia.runtimeconfig.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Autonomia\Autonomia\bin\Debug\netcoreapp3.0\Autonomia.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Autonomia\Autonomia\bin\Debug\netcoreapp3.0\Autonomia.dll
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Autonomia\Autonomia\bin\Debug\netcoreapp3.0\Autonomia.pdb
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Autonomia\Autonomia\obj\Debug\netcoreapp3.0\Autonomia.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Autonomia\Autonomia\obj\Debug\netcoreapp3.0\Autonomia.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Autonomia\Autonomia\obj\Debug\netcoreapp3.0\Autonomia.dll
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Autonomia\Autonomia\obj\Debug\netcoreapp3.0\Autonomia.pdb
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Autonomia\Autonomia\obj\Debug\netcoreapp3.0\Autonomia.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex3Autonomia\Autonomia\bin\Debug\netcoreapp3.0\Autonomia.exe
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex3Autonomia\Autonomia\bin\Debug\netcoreapp3.0\Autonomia.deps.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex3Autonomia\Autonomia\bin\Debug\netcoreapp3.0\Autonomia.runtimeconfig.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex3Autonomia\Autonomia\bin\Debug\netcoreapp3.0\Autonomia.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex3Autonomia\Autonomia\bin\Debug\netcoreapp3.0\Autonomia.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex3Autonomia\Autonomia\bin\Debug\netcoreapp3.0\Autonomia.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex3Autonomia\Autonomia\obj\Debug\netcoreapp3.0\Autonomia.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex3Autonomia\Autonomia\obj\Debug\netcoreapp3.0\Autonomia.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex3Autonomia\Autonomia\obj\Debug\netcoreapp3.0\Autonomia.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex3Autonomia\Autonomia\obj\Debug\netcoreapp3.0\Autonomia.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex3Autonomia\Autonomia\obj\Debug\netcoreapp3.0\Autonomia.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex3Autonomia\Autonomia\obj\Debug\netcoreapp3.0\Autonomia.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex3Autonomia\Autonomia\obj\Debug\netcoreapp3.0\Autonomia.genruntimeconfig.cache

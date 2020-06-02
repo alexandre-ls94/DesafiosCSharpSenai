@@ -1,0 +1,24 @@
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex7Impares\Ex7Impares\bin\Debug\netcoreapp3.0\Ex7Impares.exe
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex7Impares\Ex7Impares\bin\Debug\netcoreapp3.0\Ex7Impares.deps.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex7Impares\Ex7Impares\bin\Debug\netcoreapp3.0\Ex7Impares.runtimeconfig.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex7Impares\Ex7Impares\bin\Debug\netcoreapp3.0\Ex7Impares.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex7Impares\Ex7Impares\bin\Debug\netcoreapp3.0\Ex7Impares.dll
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex7Impares\Ex7Impares\bin\Debug\netcoreapp3.0\Ex7Impares.pdb
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex7Impares\Ex7Impares\obj\Debug\netcoreapp3.0\Ex7Impares.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex7Impares\Ex7Impares\obj\Debug\netcoreapp3.0\Ex7Impares.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex7Impares\Ex7Impares\obj\Debug\netcoreapp3.0\Ex7Impares.dll
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex7Impares\Ex7Impares\obj\Debug\netcoreapp3.0\Ex7Impares.pdb
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex7Impares\Ex7Impares\obj\Debug\netcoreapp3.0\Ex7Impares.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex7Impares\Ex7Impares\bin\Debug\netcoreapp3.0\Ex7Impares.exe
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex7Impares\Ex7Impares\bin\Debug\netcoreapp3.0\Ex7Impares.deps.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex7Impares\Ex7Impares\bin\Debug\netcoreapp3.0\Ex7Impares.runtimeconfig.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex7Impares\Ex7Impares\bin\Debug\netcoreapp3.0\Ex7Impares.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex7Impares\Ex7Impares\bin\Debug\netcoreapp3.0\Ex7Impares.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex7Impares\Ex7Impares\bin\Debug\netcoreapp3.0\Ex7Impares.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex7Impares\Ex7Impares\obj\Debug\netcoreapp3.0\Ex7Impares.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex7Impares\Ex7Impares\obj\Debug\netcoreapp3.0\Ex7Impares.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex7Impares\Ex7Impares\obj\Debug\netcoreapp3.0\Ex7Impares.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex7Impares\Ex7Impares\obj\Debug\netcoreapp3.0\Ex7Impares.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex7Impares\Ex7Impares\obj\Debug\netcoreapp3.0\Ex7Impares.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex7Impares\Ex7Impares\obj\Debug\netcoreapp3.0\Ex7Impares.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex7Impares\Ex7Impares\obj\Debug\netcoreapp3.0\Ex7Impares.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\bin\Debug\netcoreapp3.0\Ex6DeZeroACem.exe
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\bin\Debug\netcoreapp3.0\Ex6DeZeroACem.deps.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\bin\Debug\netcoreapp3.0\Ex6DeZeroACem.runtimeconfig.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\bin\Debug\netcoreapp3.0\Ex6DeZeroACem.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\bin\Debug\netcoreapp3.0\Ex6DeZeroACem.dll
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\bin\Debug\netcoreapp3.0\Ex6DeZeroACem.pdb
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\obj\Debug\netcoreapp3.0\Ex6DeZeroACem.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\obj\Debug\netcoreapp3.0\Ex6DeZeroACem.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\obj\Debug\netcoreapp3.0\Ex6DeZeroACem.dll
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\obj\Debug\netcoreapp3.0\Ex6DeZeroACem.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\bin\Debug\netcoreapp3.0\Ex6DeZeroACem.exe
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\bin\Debug\netcoreapp3.0\Ex6DeZeroACem.deps.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\bin\Debug\netcoreapp3.0\Ex6DeZeroACem.runtimeconfig.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\bin\Debug\netcoreapp3.0\Ex6DeZeroACem.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\bin\Debug\netcoreapp3.0\Ex6DeZeroACem.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\bin\Debug\netcoreapp3.0\Ex6DeZeroACem.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\obj\Debug\netcoreapp3.0\Ex6DeZeroACem.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\obj\Debug\netcoreapp3.0\Ex6DeZeroACem.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\obj\Debug\netcoreapp3.0\Ex6DeZeroACem.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\obj\Debug\netcoreapp3.0\Ex6DeZeroACem.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\obj\Debug\netcoreapp3.0\Ex6DeZeroACem.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\obj\Debug\netcoreapp3.0\Ex6DeZeroACem.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex6DeZeroACem\Ex6DeZeroACem\obj\Debug\netcoreapp3.0\Ex6DeZeroACem.genruntimeconfig.cache

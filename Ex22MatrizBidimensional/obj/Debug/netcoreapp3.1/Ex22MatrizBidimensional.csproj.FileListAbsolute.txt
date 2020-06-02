@@ -1,0 +1,13 @@
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex22MatrizBidimensional\bin\Debug\netcoreapp3.1\Ex22MatrizBidimensional.exe
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex22MatrizBidimensional\bin\Debug\netcoreapp3.1\Ex22MatrizBidimensional.deps.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex22MatrizBidimensional\bin\Debug\netcoreapp3.1\Ex22MatrizBidimensional.runtimeconfig.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex22MatrizBidimensional\bin\Debug\netcoreapp3.1\Ex22MatrizBidimensional.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex22MatrizBidimensional\bin\Debug\netcoreapp3.1\Ex22MatrizBidimensional.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex22MatrizBidimensional\bin\Debug\netcoreapp3.1\Ex22MatrizBidimensional.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex22MatrizBidimensional\obj\Debug\netcoreapp3.1\Ex22MatrizBidimensional.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex22MatrizBidimensional\obj\Debug\netcoreapp3.1\Ex22MatrizBidimensional.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex22MatrizBidimensional\obj\Debug\netcoreapp3.1\Ex22MatrizBidimensional.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex22MatrizBidimensional\obj\Debug\netcoreapp3.1\Ex22MatrizBidimensional.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex22MatrizBidimensional\obj\Debug\netcoreapp3.1\Ex22MatrizBidimensional.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex22MatrizBidimensional\obj\Debug\netcoreapp3.1\Ex22MatrizBidimensional.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex22MatrizBidimensional\obj\Debug\netcoreapp3.1\Ex22MatrizBidimensional.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex11NomesOrdem\obj\Debug\netcoreapp3.1\Ex11NomesOrdem.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex11NomesOrdem\obj\Debug\netcoreapp3.1\Ex11NomesOrdem.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex11NomesOrdem\obj\Debug\netcoreapp3.1\Ex11NomesOrdem.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex11NomesOrdem\obj\Debug\netcoreapp3.1\Ex11NomesOrdem.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex11NomesOrdem\bin\Debug\netcoreapp3.1\Ex11NomesOrdem.exe
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex11NomesOrdem\bin\Debug\netcoreapp3.1\Ex11NomesOrdem.deps.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex11NomesOrdem\bin\Debug\netcoreapp3.1\Ex11NomesOrdem.runtimeconfig.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex11NomesOrdem\bin\Debug\netcoreapp3.1\Ex11NomesOrdem.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex11NomesOrdem\bin\Debug\netcoreapp3.1\Ex11NomesOrdem.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex11NomesOrdem\bin\Debug\netcoreapp3.1\Ex11NomesOrdem.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex11NomesOrdem\obj\Debug\netcoreapp3.1\Ex11NomesOrdem.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex11NomesOrdem\obj\Debug\netcoreapp3.1\Ex11NomesOrdem.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex11NomesOrdem\obj\Debug\netcoreapp3.1\Ex11NomesOrdem.genruntimeconfig.cache

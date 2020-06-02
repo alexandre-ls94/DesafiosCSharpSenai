@@ -1,0 +1,13 @@
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex19ListaNumeros\obj\Debug\netcoreapp3.1\Ex19ListaNumeros.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex19ListaNumeros\obj\Debug\netcoreapp3.1\Ex19ListaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex19ListaNumeros\obj\Debug\netcoreapp3.1\Ex19ListaNumeros.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex19ListaNumeros\obj\Debug\netcoreapp3.1\Ex19ListaNumeros.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex19ListaNumeros\bin\Debug\netcoreapp3.1\Ex19ListaNumeros.exe
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex19ListaNumeros\bin\Debug\netcoreapp3.1\Ex19ListaNumeros.deps.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex19ListaNumeros\bin\Debug\netcoreapp3.1\Ex19ListaNumeros.runtimeconfig.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex19ListaNumeros\bin\Debug\netcoreapp3.1\Ex19ListaNumeros.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex19ListaNumeros\bin\Debug\netcoreapp3.1\Ex19ListaNumeros.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex19ListaNumeros\bin\Debug\netcoreapp3.1\Ex19ListaNumeros.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex19ListaNumeros\obj\Debug\netcoreapp3.1\Ex19ListaNumeros.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex19ListaNumeros\obj\Debug\netcoreapp3.1\Ex19ListaNumeros.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex19ListaNumeros\obj\Debug\netcoreapp3.1\Ex19ListaNumeros.genruntimeconfig.cache

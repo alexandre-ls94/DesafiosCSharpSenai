@@ -1,0 +1,13 @@
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex21CaixaEletronico\bin\Debug\netcoreapp3.1\Ex21CaixaEletronico.exe
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex21CaixaEletronico\bin\Debug\netcoreapp3.1\Ex21CaixaEletronico.deps.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex21CaixaEletronico\bin\Debug\netcoreapp3.1\Ex21CaixaEletronico.runtimeconfig.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex21CaixaEletronico\bin\Debug\netcoreapp3.1\Ex21CaixaEletronico.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex21CaixaEletronico\bin\Debug\netcoreapp3.1\Ex21CaixaEletronico.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex21CaixaEletronico\bin\Debug\netcoreapp3.1\Ex21CaixaEletronico.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex21CaixaEletronico\obj\Debug\netcoreapp3.1\Ex21CaixaEletronico.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex21CaixaEletronico\obj\Debug\netcoreapp3.1\Ex21CaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex21CaixaEletronico\obj\Debug\netcoreapp3.1\Ex21CaixaEletronico.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex21CaixaEletronico\obj\Debug\netcoreapp3.1\Ex21CaixaEletronico.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex21CaixaEletronico\obj\Debug\netcoreapp3.1\Ex21CaixaEletronico.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex21CaixaEletronico\obj\Debug\netcoreapp3.1\Ex21CaixaEletronico.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex21CaixaEletronico\obj\Debug\netcoreapp3.1\Ex21CaixaEletronico.genruntimeconfig.cache

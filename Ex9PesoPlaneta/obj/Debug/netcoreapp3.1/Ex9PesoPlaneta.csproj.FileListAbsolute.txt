@@ -1,0 +1,26 @@
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex9PesoPlaneta\obj\Debug\netcoreapp3.1\Ex9PesoPlaneta.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex9PesoPlaneta\obj\Debug\netcoreapp3.1\Ex9PesoPlaneta.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex9PesoPlaneta\obj\Debug\netcoreapp3.1\Ex9PesoPlaneta.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex9PesoPlaneta\obj\Debug\netcoreapp3.1\Ex9PesoPlaneta.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex9PesoPlaneta\bin\Debug\netcoreapp3.1\Ex9PesoPlaneta.exe
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex9PesoPlaneta\bin\Debug\netcoreapp3.1\Ex9PesoPlaneta.deps.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex9PesoPlaneta\bin\Debug\netcoreapp3.1\Ex9PesoPlaneta.runtimeconfig.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex9PesoPlaneta\bin\Debug\netcoreapp3.1\Ex9PesoPlaneta.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex9PesoPlaneta\bin\Debug\netcoreapp3.1\Ex9PesoPlaneta.dll
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex9PesoPlaneta\bin\Debug\netcoreapp3.1\Ex9PesoPlaneta.pdb
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex9PesoPlaneta\obj\Debug\netcoreapp3.1\Ex9PesoPlaneta.dll
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex9PesoPlaneta\obj\Debug\netcoreapp3.1\Ex9PesoPlaneta.pdb
+C:\Users\aleli\OneDrive\Área de Trabalho\Exercicios c#\Ex9PesoPlaneta\obj\Debug\netcoreapp3.1\Ex9PesoPlaneta.genruntimeconfig.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex9PesoPlaneta\bin\Debug\netcoreapp3.1\Ex9PesoPlaneta.exe
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex9PesoPlaneta\bin\Debug\netcoreapp3.1\Ex9PesoPlaneta.deps.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex9PesoPlaneta\bin\Debug\netcoreapp3.1\Ex9PesoPlaneta.runtimeconfig.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex9PesoPlaneta\bin\Debug\netcoreapp3.1\Ex9PesoPlaneta.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex9PesoPlaneta\bin\Debug\netcoreapp3.1\Ex9PesoPlaneta.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex9PesoPlaneta\bin\Debug\netcoreapp3.1\Ex9PesoPlaneta.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex9PesoPlaneta\obj\Debug\netcoreapp3.1\Ex9PesoPlaneta.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex9PesoPlaneta\obj\Debug\netcoreapp3.1\Ex9PesoPlaneta.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex9PesoPlaneta\obj\Debug\netcoreapp3.1\Ex9PesoPlaneta.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex9PesoPlaneta\obj\Debug\netcoreapp3.1\Ex9PesoPlaneta.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex9PesoPlaneta\obj\Debug\netcoreapp3.1\Ex9PesoPlaneta.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex9PesoPlaneta\obj\Debug\netcoreapp3.1\Ex9PesoPlaneta.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex9PesoPlaneta\obj\Debug\netcoreapp3.1\Ex9PesoPlaneta.genruntimeconfig.cache

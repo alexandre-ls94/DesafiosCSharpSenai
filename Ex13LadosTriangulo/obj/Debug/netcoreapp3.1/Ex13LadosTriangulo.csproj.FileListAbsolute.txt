@@ -1,0 +1,13 @@
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex13LadosTriangulo\bin\Debug\netcoreapp3.1\Ex13LadosTriangulo.exe
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex13LadosTriangulo\bin\Debug\netcoreapp3.1\Ex13LadosTriangulo.deps.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex13LadosTriangulo\bin\Debug\netcoreapp3.1\Ex13LadosTriangulo.runtimeconfig.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex13LadosTriangulo\bin\Debug\netcoreapp3.1\Ex13LadosTriangulo.runtimeconfig.dev.json
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex13LadosTriangulo\bin\Debug\netcoreapp3.1\Ex13LadosTriangulo.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex13LadosTriangulo\bin\Debug\netcoreapp3.1\Ex13LadosTriangulo.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex13LadosTriangulo\obj\Debug\netcoreapp3.1\Ex13LadosTriangulo.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex13LadosTriangulo\obj\Debug\netcoreapp3.1\Ex13LadosTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex13LadosTriangulo\obj\Debug\netcoreapp3.1\Ex13LadosTriangulo.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex13LadosTriangulo\obj\Debug\netcoreapp3.1\Ex13LadosTriangulo.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex13LadosTriangulo\obj\Debug\netcoreapp3.1\Ex13LadosTriangulo.dll
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex13LadosTriangulo\obj\Debug\netcoreapp3.1\Ex13LadosTriangulo.pdb
+C:\Users\aleli\OneDrive\Documentos\Exercicios c#\Ex13LadosTriangulo\obj\Debug\netcoreapp3.1\Ex13LadosTriangulo.genruntimeconfig.cache
